@@ -6,7 +6,7 @@ College: College of Engineering, Pune
 
 City, State, Pin Code: Pune, Maharashtra, 411017
 
-Names of the students: Jobin Raju George
+Name of the student: Jobin Raju George
 
 About: SearchLit allows you to get the price of books from various e-commerce vendors and compare their prices and choose the one that is appropriate for the user.
 
